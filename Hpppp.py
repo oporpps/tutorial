@@ -1,1 +1,2 @@
-pra yut chan ang kran
+def index():
+  print("Test Hello world")
