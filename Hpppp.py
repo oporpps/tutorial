@@ -1,2 +1,3 @@
 def index():
-  print("Test Hello world")
+      print("Test Hello world")
+      return
